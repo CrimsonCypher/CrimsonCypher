@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrimsonCypher
-- 👀 I’m interested in cyber security, cyber warfare, gaming.
+- 👀 I’m interested in cyber security, cyber warfare
   
 <!---
 CrimsonCypher/CrimsonCypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
